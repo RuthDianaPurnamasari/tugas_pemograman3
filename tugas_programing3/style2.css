@@ -36,7 +36,7 @@ body
 
 nav
 {
-    background-color: brown;
+    background-color: rgb(95, 114, 153);
     width: 100%;
     margin: auto;
     display: flex;
@@ -62,7 +62,7 @@ nav ul li
 
 nav ul li a
 {
-    color: #3a6351;
+    color: #d8faeb;
     font-weight: bold;
     text-align: center;
     padding: 0px 16px 0px 16px;
